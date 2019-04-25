@@ -4,6 +4,6 @@
 
 GIT_REPOSITORY_URL=https://github.com/grafana/loki.git
 LICENSE=apache2
-NAME=loki
+NAME=grafana-loki
 
 work $*

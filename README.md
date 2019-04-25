@@ -1,1 +1,1 @@
-# loki-ppa
+# grafana-loki-ppa
