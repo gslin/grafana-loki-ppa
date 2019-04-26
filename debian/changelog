@@ -1,3 +1,9 @@
+grafana-loki (0.0.20190425.0.27ca58e-1ubuntu1~unstable~ppa2) unstable; urgency=medium
+
+  * Fix debian/copyright format.
+
+ -- Gea-Suan Lin (PPA) <gslin@gslin.org>  Fri, 26 Apr 2019 17:43:56 +0800
+
 grafana-loki (0.0.20190425.0.27ca58e-1ubuntu1~unstable~ppa1) unstable; urgency=medium
 
   * Packaging 0.0.20190425.0.27ca58e.
