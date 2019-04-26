@@ -4,7 +4,5 @@
 # Uncomment this to turn on verbose mode.
 #export DH_VERBOSE=1
 
-export BUILD_IN_CONTAINER=false
-
 %:
 	dh $@ 
