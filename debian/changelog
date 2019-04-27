@@ -1,3 +1,9 @@
+grafana-loki (0.0.20190425.0.27ca58e-1ubuntu1~unstable~ppa3) unstable; urgency=medium
+
+  * Add golang-1.11 path to compile.
+
+ -- Gea-Suan Lin (PPA) <gslin@gslin.org>  Sat, 27 Apr 2019 22:01:59 +0800
+
 grafana-loki (0.0.20190425.0.27ca58e-1ubuntu1~unstable~ppa2) unstable; urgency=medium
 
   * Fix debian/copyright format.
