@@ -1,3 +1,9 @@
+grafana-loki (0.0.20190426.0.e506f16-0ubuntu1~unstable~ppa2) unstable; urgency=medium
+
+  * Add GOPATH to build.
+
+ -- Gea-Suan Lin (PPA) <gslin@gslin.org>  Sun, 28 Apr 2019 07:33:32 +0800
+
 grafana-loki (0.0.20190426.0.e506f16-0ubuntu1~unstable~ppa1) unstable; urgency=medium
 
   * Packaging e506f16.

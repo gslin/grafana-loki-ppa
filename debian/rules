@@ -1,6 +1,7 @@
 #!/usr/bin/make -f
 # -*- makefile -*-
 
+export GOPATH=/tmp/go
 export PATH:=/usr/lib/go-1.11/bin:${PATH}
 
 binary: binary-arch binary-indep
