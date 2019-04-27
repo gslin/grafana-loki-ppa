@@ -1,3 +1,10 @@
+grafana-loki (0.0.20190426.0.e506f16-0ubuntu1~unstable~ppa1) unstable; urgency=medium
+
+  * Packaging e506f16.
+  * Build directly, instead of debhelper.
+
+ -- Gea-Suan Lin (PPA) <gslin@gslin.org>  Sat, 27 Apr 2019 22:40:18 +0800
+
 grafana-loki (0.0.20190425.0.27ca58e-1ubuntu1~unstable~ppa3) unstable; urgency=medium
 
   * Add golang-1.11 path to compile.

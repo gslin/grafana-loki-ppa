@@ -1,12 +1,21 @@
 #!/usr/bin/make -f
 # -*- makefile -*-
 
-# Uncomment this to turn on verbose mode.
-#export DH_VERBOSE=1
-
 export PATH:=/usr/lib/go-1.11/bin:${PATH}
 
-%:
-	dh $@ 
+binary: binary-arch binary-indep
 
-override_dh_auto_test:
+binary-arch: build-arch
+	go build ./cmd/loki
+
+binary-indep: build-indep
+
+build: build-arch build-indep
+
+build-arch:
+	go get -d ./... || true
+
+build-indep:
+
+clean:
+	make clean
