@@ -1,3 +1,9 @@
+grafana-loki (1.4.1-unstable~ppa1) unstable; urgency=medium
+
+  * Packaging 1.4.1.
+
+ -- Gea-Suan Lin (PPA) <gslin@gslin.org>  Tue, 18 Aug 2020 23:55:32 +0800
+
 grafana-loki (1.4.0-unstable~ppa1) unstable; urgency=medium
 
   * Packaging 1.4.0.
