@@ -1,0 +1,4 @@
+cmd/logcli/logcli /usr/sbin
+cmd/loki-canary/loki-canary /usr/sbin
+cmd/loki/loki /usr/sbin
+cmd/promtail/promtail /usr/sbin

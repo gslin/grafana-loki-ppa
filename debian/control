@@ -2,7 +2,7 @@ Source: grafana-loki
 Section: utils
 Priority: optional
 Maintainer: Gea-Suan Lin (PPA) <gslin@gslin.org>
-Build-Depends: git, golang-1.11
+Build-Depends: dh-make, git, golang-go, libsystemd-dev
 Standards-Version: 3.9.7
 Homepage: https://grafana.com/loki
 Vcs-Git: https://github.com/grafana/loki.git

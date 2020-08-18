@@ -1,3 +1,33 @@
+grafana-loki (1.1.0-0ubuntu1~unstable~ppa5) unstable; urgency=medium
+
+  * Add 4 binaries.
+
+ -- Gea-Suan Lin (PPA) <gslin@gslin.org>  Tue, 18 Aug 2020 16:32:16 +0800
+
+grafana-loki (1.1.0-0ubuntu1~unstable~ppa4) unstable; urgency=medium
+
+  * Try again, to avoid from running test cases during PPA build.
+
+ -- Gea-Suan Lin (PPA) <gslin@gslin.org>  Tue, 18 Aug 2020 15:50:16 +0800
+
+grafana-loki (1.1.0-0ubuntu1~unstable~ppa3) unstable; urgency=medium
+
+  * No test during PPA build.
+
+ -- Gea-Suan Lin (PPA) <gslin@gslin.org>  Tue, 18 Aug 2020 15:29:26 +0800
+
+grafana-loki (1.1.0-0ubuntu1~unstable~ppa2) unstable; urgency=medium
+
+  * Don't check generated files.
+
+ -- Gea-Suan Lin (PPA) <gslin@gslin.org>  Tue, 18 Aug 2020 09:59:55 +0800
+
+grafana-loki (1.1.0-0ubuntu1~unstable~ppa1) unstable; urgency=medium
+
+  * Packaging 1.1.0.
+
+ -- Gea-Suan Lin (PPA) <gslin@gslin.org>  Tue, 18 Aug 2020 09:11:43 +0800
+
 grafana-loki (0.0.20190426.0.e506f16-0ubuntu1~unstable~ppa2) unstable; urgency=medium
 
   * Add GOPATH to build.
