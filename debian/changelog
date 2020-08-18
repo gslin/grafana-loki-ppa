@@ -1,3 +1,9 @@
+grafana-loki (1.2.0-0ubuntu1~unstable~ppa1) unstable; urgency=medium
+
+  * Packaging 1.2.0.
+
+ -- Gea-Suan Lin (PPA) <gslin@gslin.org>  Tue, 18 Aug 2020 17:22:17 +0800
+
 grafana-loki (1.1.0-0ubuntu1~unstable~ppa5) unstable; urgency=medium
 
   * Add 4 binaries.
