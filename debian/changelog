@@ -1,3 +1,33 @@
+grafana-loki (2.0.0-unstable~ppa5) unstable; urgency=medium
+
+  * Use golang-go.
+
+ -- Gea-Suan Lin (PPA) <gslin@gslin.org>  Fri, 09 Apr 2021 02:40:25 +0800
+
+grafana-loki (2.0.0-unstable~ppa4) unstable; urgency=medium
+
+  * Trigger rebuild again.
+
+ -- Gea-Suan Lin (PPA) <gslin@gslin.org>  Fri, 09 Apr 2021 02:34:28 +0800
+
+grafana-loki (2.0.0-unstable~ppa3) unstable; urgency=medium
+
+  * Trigger rebuild.
+
+ -- Gea-Suan Lin (PPA) <gslin@gslin.org>  Fri, 09 Apr 2021 02:21:21 +0800
+
+grafana-loki (2.0.0-unstable~ppa2) unstable; urgency=medium
+
+  * Use golang-1.16.
+
+ -- Gea-Suan Lin (PPA) <gslin@gslin.org>  Fri, 09 Apr 2021 02:05:40 +0800
+
+grafana-loki (2.0.0-unstable~ppa1) unstable; urgency=medium
+
+  * Packaging 2.0.0.
+
+ -- Gea-Suan Lin (PPA) <gslin@gslin.org>  Mon, 22 Mar 2021 20:45:04 +0800
+
 grafana-loki (1.6.1-unstable~ppa1) unstable; urgency=medium
 
   * Packaging 1.6.1.
